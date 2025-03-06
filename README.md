@@ -1,7 +1,7 @@
 # Auto-commit
 Main purpose of this repo is to help people to fill their contributions(graph) on their profile. 
 
-This python script will automatically commit and push this repo to github.
+This python script will automatically commit and push the repo to github.
 
 ##  Configure .env file
 - Setup the range of commits and time.
